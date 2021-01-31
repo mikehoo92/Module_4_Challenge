@@ -3,6 +3,8 @@
 
 This notebook offers a platform that aims to offer clients a one-stop investment solution for their retirement portfolios. We will be comparing 4 different fund portfolios to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
+<img src="Images/Screen%20Shot%202021-01-31%20at%202.26.01%20PM.png" width="850" >
+
 ---
 
 ## Technologies
